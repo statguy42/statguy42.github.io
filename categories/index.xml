@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on My Hugo Test Site</title>
+    <link>https://statguy42.github.io/categories/</link>
+    <description>Recent content in Categories on My Hugo Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>https://statguy42.github.io/ - [CC by NC 4.0 ](https://creativecommons.org/licenses/by-nc/4.0/) </copyright>
+    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://statguy42.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://statguy42.github.io/categories/test/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://statguy42.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://statguy42.github.io/categories/new/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://statguy42.github.io/categories/new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
