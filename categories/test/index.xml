@@ -6,7 +6,7 @@
     <description>Recent content in test on My Hugo Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 - https://statguy42.github.io/ - [CC by NC 4.0 ](https://creativecommons.org/licenses/by-nc/4.0/) </copyright>
+    <copyright>&amp;copy; 2021 - https://statguy42.github.io/ - [CC  BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/) </copyright>
     <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://statguy42.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test post</title>
@@ -25,7 +25,7 @@
       
       <guid>https://statguy42.github.io/posts/new/</guid>
       <description>Some stuff here.
-Python test for i in range(10): print(i) params: # defaultTheme: light # defaultTheme: dark defaultTheme: auto # to switch between dark or light according to browser theme </description>
+Python test for i in range(10):  print(i) params:  # defaultTheme: light  # defaultTheme: dark  defaultTheme: auto # to switch between dark or light according to browser theme </description>
     </item>
     
   </channel>
